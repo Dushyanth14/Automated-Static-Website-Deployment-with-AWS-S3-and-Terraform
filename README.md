@@ -21,6 +21,9 @@ The project also includes a sample HTML file (`index.html`) and CSS file (`style
 
 ## Steps to Run the Project
 
+## Installation
+Follow the installation guide for Terraform based on your operating system: https://learn.hashicorp.com/tutorials/terraform/install-cli
+
 ### 1. Clone the Repository:
 Clone this repository to your local machine:
 
@@ -28,8 +31,11 @@ Clone this repository to your local machine:
      git clone https://github.com/Dushyanth14/Automated-Static-Website-Deployment-with-AWS-S3-and-Terraform.git
     cd static-website-terraform
 
-## Installation
-Follow the installation guide for Terraform based on your operating system: https://learn.hashicorp.com/tutorials/terraform/install-cli
+### 2. Set Up AWS Credentials:
+ Make sure your AWS credentials are configured using AWS CLI: aws configure
+
+### 3. Apply Terraform Configuration:
+    Run terraform apply to apply the configuration and provision the AWS resources:
 
 
 
