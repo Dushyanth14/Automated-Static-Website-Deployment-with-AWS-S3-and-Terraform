@@ -25,5 +25,7 @@ The project also includes a sample HTML file (`index.html`) and CSS file (`style
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/Automated-Static-Website-Deployment-with-AWS-S3-and-Terraform.git
+git clone https://github.com/Dushyanth14/Automated-Static-Website-Deployment-with-AWS-S3-and-Terraform.git
 cd static-website-terraform
+
+## in
