@@ -24,8 +24,12 @@ The project also includes a sample HTML file (`index.html`) and CSS file (`style
 ### 1. Clone the Repository:
 Clone this repository to your local machine:
 
-```bash
-git clone https://github.com/Dushyanth14/Automated-Static-Website-Deployment-with-AWS-S3-and-Terraform.git
-cd static-website-terraform
+      ```bash
+     git clone https://github.com/Dushyanth14/Automated-Static-Website-Deployment-with-AWS-S3-and-Terraform.git
+    cd static-website-terraform
 
-## in
+## Installation
+Follow the installation guide for Terraform based on your operating system: https://learn.hashicorp.com/tutorials/terraform/install-cli
+
+
+
