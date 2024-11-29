@@ -1,0 +1,1 @@
+# Automated-Static-Website-Deployment-with-AWS-S3-and-Terraform
