@@ -29,13 +29,18 @@ Clone this repository to your local machine:
 
       ```bash
      git clone https://github.com/Dushyanth14/Automated-Static-Website-Deployment-with-AWS-S3-and-Terraform.git
-    cd static-website-terraform
+ cd static-website-terraform
 
 ### 2. Set Up AWS Credentials:
- Make sure your AWS credentials are configured using AWS CLI: aws configure
+  # Make sure your AWS credentials are configured using AWS CLI: 
+    aws configure
 
 ### 3. Apply Terraform Configuration:
-    Run terraform apply to apply the configuration and provision the AWS resources:
+   # Run terraform apply to apply the configuration and provision the AWS resources:
+     terraform apply
 
+### 4. Access the Website:
+ # Once the Terraform configuration is applied successfully, Terraform will output the website URL where your static site is hosted.
+    op-id = "http://static-website-abc123.s3-website-us-east-1.amazonaws.com"
 
 
