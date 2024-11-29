@@ -1,0 +1,6 @@
+/static-website-terraform
+├── index.html
+├── styles.css
+├── main.tf
+├── README.md
+└── outputs.tf
