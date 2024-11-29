@@ -27,7 +27,7 @@ Follow the installation guide for Terraform based on your operating system: http
 ### 1. Clone the Repository:
 Clone this repository to your local machine:
 
-      ```bash
+    
      git clone https://github.com/Dushyanth14/Automated-Static-Website-Deployment-with-AWS-S3-and-Terraform.git
  cd static-website-terraform
 
