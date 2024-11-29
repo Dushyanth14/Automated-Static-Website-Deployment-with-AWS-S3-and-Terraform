@@ -74,7 +74,3 @@ resource "aws_s3_object" "styles-css-file" {
 }
 
 
-output "op-id" {
-  value = aws_s3_bucket_website_configuration.mywebapp.website_endpoint
-  
-}
